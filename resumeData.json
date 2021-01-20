@@ -1,0 +1,126 @@
+{
+  "main": {
+    "website": "",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/its.me.kiran.nambiar/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/kiran-p-k/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/kiran__nambiar/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/kiranmurali93",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/channel/UC5rb-lnd-4rtJqRIAWurURA",
+        "className": "fa fa-youtube"
+      }
+    ]
+  },
+  "resume": {
+    "education": [
+      {
+        "school": "Cochin University Of Science And Technology",
+        "degree": "Bachelor of technology, Computer Science"
+      }
+    ],
+    "work": [
+      {
+        "company": "Horizon Mars Rover Team, CUSAT",
+        "title": "software developer",
+        "years": "Oct 2020 – Present",
+        "description": "Building a robotic arm and integrating it to the rover"
+      },
+      {
+        "company": "Dhishna",
+        "title": "Member of Tech team (2020)",
+        "years": "Dec 2019 – Mar 2020",
+        "description": "Working with the Dhishna tech team to build a completely responsive, dynamic website and handling registrations for different events related to tech fest. Worked with Program Control Office to handle the certification processes to the participants"
+      },
+      {
+        "company": "Innovators' Summit ",
+        "title": "Frontend Web Developer",
+        "years": "Oct 2019 – Jan 2020",
+        "description": "Building a Static site for the event and connecting with a payment gateway for event registration"
+      },
+      {
+        "company": "TinkerHub",
+        "title": "Community manager intern",
+        "years": "2019 – Jan 2020",
+        "description": "Starting and executing a completely online and distant python learning program (Py-lad) for beginners, Connecting participants with different mentors who have worked in the related domain, collecting feedback form the participants."
+      },
+      {
+        "company": "Make-a-Ton",
+        "title": "Event Coordinator",
+        "years": "Mar 2019 – Nov 2019",
+        "description": "Coordinated the event and participants, designed the posters and modified the website"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs"
+      },
+      {
+        "name": "Python"
+      },
+      {
+        "name": "Git"
+      },
+      {
+        "name": "JavaScript"
+      },
+      {
+        "name": "MongoDB"
+      },
+      {
+        "name": "Node Js"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Instaclone using MERN stack",
+        "category": "Web-dev",
+        "image": "insta clone.png",
+        "url": "https://github.com/kiranmurali93/instaclone"
+      },
+      {
+        "title": "vehicle surveillance Dashboard",
+        "category": "Dashboard for vechile surveillance using Node JS",
+        "image": "survaillance.png",
+        "url": "https://github.com/kiranmurali93/vehicle_surveillance"
+      },
+      {
+        "title": "Todo Django app",
+        "category": "To-do using Django",
+        "image": "djangodemo.gif",
+        "url": "https://github.com/kiranmurali93/to-do-django"
+      },
+      {
+        "title": "Todo Cli using python",
+        "category": "To-do using python",
+        "image": "todo-cli.png",
+        "url": "https://github.com/kiranmurali93/cli-todo"
+      },
+      {
+        "title": "Selenium-Testing",
+        "category": "Testing Different websites using selenium",
+        "image": "selenium.png",
+        "url": "https://github.com/kiranmurali93/selenium-testing"
+      }
+    ]
+  }
+}
