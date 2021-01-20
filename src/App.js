@@ -1,6 +1,4 @@
-
 import './App.css';
-import ReactGA from 'react-ga';
 import $ from 'jquery';
 import Header from './Components/Header'
 import About from './Components/About'
@@ -21,7 +19,7 @@ class App extends Component {
 
   getResumeData(){
     $.ajax({
-      url:'/resumeData.json',
+      url:'./resumeData.json',
       dataType:'json',
       cache: false,
       success: function(data){
