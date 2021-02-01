@@ -86,15 +86,24 @@
       },
       {
         "name": "Node Js"
+      },
+      {
+        "name": "Next Js"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
+        "title": "Backend contributer for hello munnar.in",
+        "category": "Web-dev, opensource",
+        "image": "hello-munnar.png",
+        "url": "https://github.com/kiranmurali93/instaclone"
+      },
+      {
         "title": "Instaclone using MERN stack",
         "category": "Web-dev",
-        "image": "insta clone.png",
+        "image": "insta_clone.png",
         "url": "https://github.com/kiranmurali93/instaclone"
       },
       {
