@@ -4,7 +4,7 @@ class Resume extends Component {
   render() {
 
     if(this.props.data){
-      var education = this.props.data.education.map(function(education){
+      var education = this.props.data.education.map((education)=>{
         return <div key={education.school}><h3>{education.school}</h3>
         <p className="info">{education.degree} <span>&bull;</span><em className="date">{education.graduated}</em></p>
         <p>{education.description}</p></div>
@@ -15,8 +15,8 @@ class Resume extends Component {
             <p>{work.description}</p>
         </div>
       })
-      var skills = this.props.data.skills.map(function(skills){
-        return <li >{skills.name}</li>
+      var skills = this.props.data.skills.map(function(skills,id){
+        return <li key={id} >{skills.name}</li>
       })
     }
 
