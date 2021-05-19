@@ -125,6 +125,12 @@
         "url": "https://github.com/kiranmurali93/cli-todo"
       },
       {
+        "title": "Banglore house price prediction",
+        "category": "Flask server for deploying ml model",
+        "image": "dmweb.png",
+        "url": "https://github.com/kiranmurali93/cli-todo"
+      },
+      {
         "title": "Selenium-Testing",
         "category": "Testing Different websites using selenium",
         "image": "selenium.png",
